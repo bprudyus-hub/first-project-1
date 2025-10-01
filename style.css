@@ -1,0 +1,15 @@
+.topdiv{/* styling the top "header for my page*/
+  border-top-styles: solid;
+  border-botom-styles: solid;
+  border-color: rgb(4, 65, 250);
+  border-width:1px;
+  border-left: 5px;
+   font-family: "Courier New",Courier, monospace;
+    text-align: center;
+}
+.img{
+    width: 30em;
+  border: solid;
+  border-width: 1px;
+  border-color: rgba(214, 19, 19, 0.925);
+}

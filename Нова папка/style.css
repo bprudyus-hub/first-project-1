@@ -1,0 +1,54 @@
+}
+tr:nth-child(even){
+backgraund-color:steelblue; 
+}
+td{
+  border: 1px solid gray;
+  text-align: center;
+}
+.foodLI{
+  /*A green box with rouded corners div*/
+  backgroun-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: green;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 30px;
+  font-family: Vernada, Geneva, sans-serif;
+  
+}
+.intr{
+  color: solid grey;
+  
+}
+.topdiv{/* styling the top "header for my page*/"
+  border-top-styles: solid;
+  border-botom-styles: solid;
+  border-color: royalblue;
+  border-width:1px;
+  border-left: 5px;
+  font-family: "Courier New",Courier, monospace;
+    text-align: center;
+}
+.table{
+  /* a blue div that covers the fuulwidith of the page*/
+   backgroun-color: RoyalBlue;
+  width: 100%;
+  margin: 0px 0px 0px -9px;
+  padding: 2px 9px 0px 0px;
+  color: black;
+  font-family: Vernada, Geneva, sans-serif;
+}
+img{
+  width: 30em;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+}
+table{
+  margin: auto;
+}
+h2{
+  text-align:center;
+}
