@@ -1,0 +1,31 @@
+[33mcommit bb7c121ac6bb836986ecbc710e97885c2c64ea7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prudia <bprudyus@gmail.com>
+Date:   Thu Oct 2 19:54:18 2025 +0300
+
+    123
+
+[33mcommit ccd964999f5b4a86a1b55d139f14207b3bbbf216[m
+Author: prudia <bprudyus@gmail.com>
+Date:   Wed Oct 1 21:40:09 2025 +0300
+
+    obnova
+
+[33mcommit a308ea1816fc252ed0dc06e3ce782a000e9b9ed6[m
+Author: prudia <bprudyus@gmail.com>
+Date:   Wed Oct 1 21:18:37 2025 +0300
+
+    :update1
+    git commit -mupdate1
+    git commit -m:update2
+
+[33mcommit 2748078c2299d74c81f80a2da3c21ebf089d7ec7[m
+Author: prudia <bprudyus@gmail.com>
+Date:   Wed Oct 1 21:05:57 2025 +0300
+
+    update 01.10
+
+[33mcommit a655ea26cecb66b08d51b76bbced9d38b22f6463[m
+Author: Bohdan Prudyus <bprudyus@gmail.com>
+Date:   Sun Sep 28 14:32:45 2025 +0300
+
+    Initial commit
