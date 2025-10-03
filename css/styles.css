@@ -1,0 +1,33 @@
+.topdiv1{
+    text-align: center;
+    background-color: #11f3244d;
+border: 5px solid gray;
+ border-radius: 15px;
+ padding: 10px;
+    margin: 10px;}
+
+.intrs{
+    color: rgb(17, 17, 17);
+    text-align: center;
+    border: 5px solid gray;
+    border-radius: 15px;
+    background-color: rgb(242, 245, 67);
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.joob{
+    background-color: rgb(247, 0, 33);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+     margin: 10px;
+    border: 5px solid gray;
+        border-radius: 15px;
+}
+
+#title {
+    color: rgb(73, 73, 72);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
